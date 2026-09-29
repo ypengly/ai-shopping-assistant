@@ -1,0 +1,2017 @@
+{
+  "categories": {
+    "Electronics": [
+      "Laptops",
+      "Smartphones",
+      "Headphones",
+      "Chargers",
+      "Keyboards"
+    ],
+    "Clothing": [
+      "T-Shirts",
+      "Shirts",
+      "Jeans",
+      "Jackets",
+      "Dresses"
+    ],
+    "Shoes": [
+      "Running Shoes",
+      "Sneakers",
+      "Formal Shoes"
+    ]
+  },
+  "products": [
+    {
+      "name": "ASUS Vivobook 15",
+      "top": "Electronics",
+      "category": "Laptops",
+      "brand": "ASUS",
+      "price": 649.0,
+      "originalPrice": null,
+      "stock": 22,
+      "rating": 4.6,
+      "reviewCount": 812,
+      "shortDescription": "16GB RAM, 512GB SSD, all-day battery for work and study.",
+      "description": "The Vivobook 15 pairs a Ryzen 5 processor with 16GB of RAM and a fast 512GB SSD, making it a comfortable everyday machine for browsing, office work, and light development. The 15.6-inch display and full-size keyboard make long sessions easier on the eyes and hands.",
+      "specs": {
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Processor": "AMD Ryzen 5 7530U",
+        "Display": "15.6\" FHD",
+        "OS": "Windows 11",
+        "Battery": "Up to 10 hours"
+      },
+      "tags": [
+        "laptop",
+        "windows",
+        "office",
+        "student"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "ASUS ROG Strix G16",
+      "top": "Electronics",
+      "category": "Laptops",
+      "brand": "ASUS",
+      "price": 1399.0,
+      "originalPrice": 1599.0,
+      "stock": 8,
+      "rating": 4.7,
+      "reviewCount": 340,
+      "shortDescription": "32GB RAM, RTX 4060, built for gaming and heavy multitasking.",
+      "description": "The ROG Strix G16 is built for gaming and demanding creative work, with a Core i7 processor, 32GB of RAM, and an RTX 4060 graphics card. A 165Hz display keeps fast-moving games smooth.",
+      "specs": {
+        "RAM": "32GB",
+        "Storage": "1TB SSD",
+        "Processor": "Intel Core i7-13650HX",
+        "GPU": "NVIDIA RTX 4060",
+        "Display": "16\" QHD 165Hz",
+        "OS": "Windows 11"
+      },
+      "tags": [
+        "laptop",
+        "gaming",
+        "windows",
+        "high-performance"
+      ],
+      "variants": [],
+      "featured": true
+    },
+    {
+      "name": "Lenovo ThinkPad E14",
+      "top": "Electronics",
+      "category": "Laptops",
+      "brand": "Lenovo",
+      "price": 729.0,
+      "originalPrice": null,
+      "stock": 15,
+      "rating": 4.5,
+      "reviewCount": 501,
+      "shortDescription": "16GB RAM, 512GB SSD, durable business laptop with Windows 11.",
+      "description": "The ThinkPad E14 brings Lenovo's legendary keyboard and business-grade durability to a 14-inch laptop with 16GB of RAM and a 512GB SSD - comfortable for programming, spreadsheets, and video calls.",
+      "specs": {
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Processor": "Intel Core i5-1335U",
+        "Display": "14\" FHD",
+        "OS": "Windows 11",
+        "Battery": "Up to 12 hours"
+      },
+      "tags": [
+        "laptop",
+        "windows",
+        "programming",
+        "business"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Lenovo Legion 5",
+      "top": "Electronics",
+      "category": "Laptops",
+      "brand": "Lenovo",
+      "price": 999.0,
+      "originalPrice": 1199.0,
+      "stock": 10,
+      "rating": 4.6,
+      "reviewCount": 275,
+      "shortDescription": "16GB RAM, RTX 4050, a well-rounded gaming and programming laptop.",
+      "description": "The Legion 5 balances gaming performance with everyday usability: 16GB of RAM, a Ryzen 7 processor, and an RTX 4050 GPU handle games, IDEs, and multitasking without slowing down.",
+      "specs": {
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Processor": "AMD Ryzen 7 7735HS",
+        "GPU": "NVIDIA RTX 4050",
+        "Display": "15.6\" FHD 144Hz",
+        "OS": "Windows 11"
+      },
+      "tags": [
+        "laptop",
+        "gaming",
+        "programming",
+        "windows"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Apple MacBook Air 13\" (M3)",
+      "top": "Electronics",
+      "category": "Laptops",
+      "brand": "Apple",
+      "price": 1099.0,
+      "originalPrice": null,
+      "stock": 18,
+      "rating": 4.9,
+      "reviewCount": 1203,
+      "shortDescription": "8GB RAM, 256GB SSD, fanless design with all-day battery life.",
+      "description": "The M3 MacBook Air is silent, light, and fast enough for everyday work, browsing, and light photo editing, with a battery that comfortably lasts a full day away from a charger.",
+      "specs": {
+        "RAM": "8GB",
+        "Storage": "256GB SSD",
+        "Processor": "Apple M3",
+        "Display": "13.6\" Liquid Retina",
+        "OS": "macOS",
+        "Battery": "Up to 18 hours"
+      },
+      "tags": [
+        "laptop",
+        "macos",
+        "portable",
+        "student"
+      ],
+      "variants": [],
+      "featured": true
+    },
+    {
+      "name": "Apple MacBook Pro 14\" (M3 Pro)",
+      "top": "Electronics",
+      "category": "Laptops",
+      "brand": "Apple",
+      "price": 1999.0,
+      "originalPrice": null,
+      "stock": 6,
+      "rating": 4.9,
+      "reviewCount": 410,
+      "shortDescription": "18GB RAM, 512GB SSD, pro-level performance for development and creative work.",
+      "description": "The 14-inch MacBook Pro with M3 Pro handles demanding development, video editing, and design workloads with ease, backed by 18GB of unified memory and a bright mini-LED display.",
+      "specs": {
+        "RAM": "18GB",
+        "Storage": "512GB SSD",
+        "Processor": "Apple M3 Pro",
+        "Display": "14.2\" Liquid Retina XDR",
+        "OS": "macOS"
+      },
+      "tags": [
+        "laptop",
+        "macos",
+        "programming",
+        "professional"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Samsung Galaxy Book4",
+      "top": "Electronics",
+      "category": "Laptops",
+      "brand": "Samsung",
+      "price": 799.0,
+      "originalPrice": null,
+      "stock": 12,
+      "rating": 4.4,
+      "reviewCount": 156,
+      "shortDescription": "16GB RAM, 512GB SSD, lightweight laptop with a bright AMOLED display.",
+      "description": "The Galaxy Book4 pairs a vivid AMOLED screen with 16GB of RAM and a 512GB SSD, in a slim chassis that's easy to carry between classes or meetings.",
+      "specs": {
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Processor": "Intel Core i5-1340P",
+        "Display": "15.6\" AMOLED",
+        "OS": "Windows 11"
+      },
+      "tags": [
+        "laptop",
+        "windows",
+        "portable",
+        "student"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Samsung Galaxy A55",
+      "top": "Electronics",
+      "category": "Smartphones",
+      "brand": "Samsung",
+      "price": 379.0,
+      "originalPrice": null,
+      "stock": 30,
+      "rating": 4.5,
+      "reviewCount": 620,
+      "shortDescription": "8GB RAM, 128GB storage, 50MP camera, all-day battery.",
+      "description": "The Galaxy A55 offers a smooth 120Hz display, a versatile 50MP camera system, and enough battery to comfortably last a full day of calls, browsing, and photos.",
+      "specs": {
+        "RAM": "8GB",
+        "Storage": "128GB",
+        "Battery": "5000mAh",
+        "Camera": "50MP triple camera",
+        "Display": "6.6\" AMOLED 120Hz"
+      },
+      "tags": [
+        "phone",
+        "android",
+        "camera",
+        "budget"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Samsung Galaxy S24",
+      "top": "Electronics",
+      "category": "Smartphones",
+      "brand": "Samsung",
+      "price": 799.0,
+      "originalPrice": 899.0,
+      "stock": 14,
+      "rating": 4.7,
+      "reviewCount": 940,
+      "shortDescription": "8GB RAM, 256GB storage, flagship camera and performance.",
+      "description": "The Galaxy S24 pairs a fast Snapdragon processor with a refined triple camera system, ideal for photography, gaming, and everyday multitasking.",
+      "specs": {
+        "RAM": "8GB",
+        "Storage": "256GB",
+        "Battery": "4000mAh",
+        "Camera": "50MP triple camera",
+        "Display": "6.2\" AMOLED 120Hz"
+      },
+      "tags": [
+        "phone",
+        "android",
+        "flagship",
+        "camera"
+      ],
+      "variants": [],
+      "featured": true
+    },
+    {
+      "name": "Apple iPhone 15",
+      "top": "Electronics",
+      "category": "Smartphones",
+      "brand": "Apple",
+      "price": 799.0,
+      "originalPrice": null,
+      "stock": 20,
+      "rating": 4.8,
+      "reviewCount": 1500,
+      "shortDescription": "128GB storage, A16 chip, durable and fast for everyday use.",
+      "description": "The iPhone 15 brings the A16 chip, a 48MP main camera, and Apple's long software support to a comfortable, everyday-sized phone.",
+      "specs": {
+        "Storage": "128GB",
+        "Chip": "A16 Bionic",
+        "Camera": "48MP dual camera",
+        "Display": "6.1\" Super Retina XDR"
+      },
+      "tags": [
+        "phone",
+        "ios",
+        "camera",
+        "flagship"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Apple iPhone 15 Pro",
+      "top": "Electronics",
+      "category": "Smartphones",
+      "brand": "Apple",
+      "price": 999.0,
+      "originalPrice": null,
+      "stock": 9,
+      "rating": 4.9,
+      "reviewCount": 680,
+      "shortDescription": "256GB storage, titanium build, pro camera system for gaming and photography.",
+      "description": "The iPhone 15 Pro's A17 Pro chip makes it one of the strongest phones available for gaming and video, paired with a titanium frame and a more capable telephoto camera.",
+      "specs": {
+        "Storage": "256GB",
+        "Chip": "A17 Pro",
+        "Camera": "48MP triple camera",
+        "Display": "6.1\" Super Retina XDR ProMotion"
+      },
+      "tags": [
+        "phone",
+        "ios",
+        "gaming",
+        "camera",
+        "flagship"
+      ],
+      "variants": [],
+      "featured": true
+    },
+    {
+      "name": "ASUS ROG Phone 8",
+      "top": "Electronics",
+      "category": "Smartphones",
+      "brand": "ASUS",
+      "price": 899.0,
+      "originalPrice": null,
+      "stock": 5,
+      "rating": 4.6,
+      "reviewCount": 120,
+      "shortDescription": "16GB RAM, 256GB storage, built specifically for mobile gaming.",
+      "description": "The ROG Phone 8 is tuned for gaming: a 165Hz display, dedicated shoulder triggers, and a large battery keep long sessions smooth without overheating.",
+      "specs": {
+        "RAM": "16GB",
+        "Storage": "256GB",
+        "Battery": "5500mAh",
+        "Display": "6.78\" AMOLED 165Hz"
+      },
+      "tags": [
+        "phone",
+        "android",
+        "gaming",
+        "high-performance"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Sony WH-1000XM5",
+      "top": "Electronics",
+      "category": "Headphones",
+      "brand": "Sony",
+      "price": 349.0,
+      "originalPrice": 399.0,
+      "stock": 25,
+      "rating": 4.9,
+      "reviewCount": 2100,
+      "shortDescription": "Industry-leading noise cancellation, 30-hour battery life.",
+      "description": "The WH-1000XM5 combines Sony's best noise cancellation with a comfortable over-ear fit and 30 hours of battery life, making them a reliable choice for travel, calls, and focused work.",
+      "specs": {
+        "Battery life": "30 hours",
+        "Connectivity": "Bluetooth 5.2",
+        "Noise cancellation": "Yes",
+        "Type": "Over-ear"
+      },
+      "tags": [
+        "headphones",
+        "wireless",
+        "noise cancelling",
+        "travel"
+      ],
+      "variants": [],
+      "featured": true
+    },
+    {
+      "name": "JBL Tune 760NC",
+      "top": "Electronics",
+      "category": "Headphones",
+      "brand": "JBL",
+      "price": 79.0,
+      "originalPrice": 99.0,
+      "stock": 40,
+      "rating": 4.4,
+      "reviewCount": 860,
+      "shortDescription": "Active noise cancelling with 50-hour battery life at a budget price.",
+      "description": "The Tune 760NC delivers active noise cancellation and punchy bass at a budget-friendly price, with up to 50 hours of playback on a single charge.",
+      "specs": {
+        "Battery life": "50 hours",
+        "Connectivity": "Bluetooth 5.3",
+        "Noise cancellation": "Yes",
+        "Type": "Over-ear"
+      },
+      "tags": [
+        "headphones",
+        "wireless",
+        "noise cancelling",
+        "budget"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Apple AirPods Pro (2nd gen)",
+      "top": "Electronics",
+      "category": "Headphones",
+      "brand": "Apple",
+      "price": 219.0,
+      "originalPrice": 249.0,
+      "stock": 33,
+      "rating": 4.8,
+      "reviewCount": 3040,
+      "shortDescription": "Active noise cancellation in a compact true-wireless earbud.",
+      "description": "AirPods Pro pair adaptive noise cancellation with a compact, secure fit, plus easy pairing across Apple devices and a case that supports wireless charging.",
+      "specs": {
+        "Battery life": "6 hours (30 with case)",
+        "Connectivity": "Bluetooth 5.3",
+        "Noise cancellation": "Yes",
+        "Type": "In-ear"
+      },
+      "tags": [
+        "headphones",
+        "wireless",
+        "earbuds",
+        "noise cancelling"
+      ],
+      "variants": [],
+      "featured": true
+    },
+    {
+      "name": "Logitech G Pro X",
+      "top": "Electronics",
+      "category": "Headphones",
+      "brand": "Logitech",
+      "price": 129.0,
+      "originalPrice": null,
+      "stock": 18,
+      "rating": 4.6,
+      "reviewCount": 430,
+      "shortDescription": "Gaming headset with detachable microphone and 7.1 surround sound.",
+      "description": "Built for competitive gaming, the G Pro X offers clear positional audio and a detachable microphone tuned for voice clarity in fast-paced matches.",
+      "specs": {
+        "Connectivity": "Wired / USB",
+        "Surround sound": "DTS Headphone:X 2.0",
+        "Type": "Over-ear",
+        "Microphone": "Detachable"
+      },
+      "tags": [
+        "headphones",
+        "gaming",
+        "microphone",
+        "wired"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Anker 735 Charger (65W)",
+      "top": "Electronics",
+      "category": "Chargers",
+      "brand": "Anker",
+      "price": 39.0,
+      "originalPrice": 49.0,
+      "stock": 60,
+      "rating": 4.7,
+      "reviewCount": 1900,
+      "shortDescription": "Compact 65W GaN charger, fast-charges laptops and phones alike.",
+      "description": "This compact GaN charger delivers up to 65W, fast enough for most laptops, and small enough to carry everywhere. Two USB-C ports and one USB-A port cover most setups.",
+      "specs": {
+        "Output": "65W",
+        "Ports": "2x USB-C, 1x USB-A",
+        "Technology": "GaN"
+      },
+      "tags": [
+        "charger",
+        "fast charging",
+        "travel",
+        "budget"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Anker PowerCore 20000",
+      "top": "Electronics",
+      "category": "Chargers",
+      "brand": "Anker",
+      "price": 45.0,
+      "originalPrice": null,
+      "stock": 55,
+      "rating": 4.6,
+      "reviewCount": 2600,
+      "shortDescription": "20,000mAh power bank with fast charging for phones and tablets.",
+      "description": "The PowerCore 20000 holds enough charge for multiple full phone charges, with fast-charging support so top-ups take less time on the go.",
+      "specs": {
+        "Capacity": "20000mAh",
+        "Output": "18W PD",
+        "Ports": "1x USB-C, 2x USB-A"
+      },
+      "tags": [
+        "charger",
+        "power bank",
+        "travel"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Apple 20W USB-C Power Adapter",
+      "top": "Electronics",
+      "category": "Chargers",
+      "brand": "Apple",
+      "price": 19.0,
+      "originalPrice": null,
+      "stock": 80,
+      "rating": 4.5,
+      "reviewCount": 3100,
+      "shortDescription": "Compact 20W charger, ideal for fast-charging iPhone and AirPods.",
+      "description": "A simple, reliable 20W USB-C adapter that fast-charges compatible iPhones to 50% in about 30 minutes.",
+      "specs": {
+        "Output": "20W",
+        "Ports": "1x USB-C",
+        "Technology": "USB-C PD"
+      },
+      "tags": [
+        "charger",
+        "fast charging",
+        "budget"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Logitech MX Keys",
+      "top": "Electronics",
+      "category": "Keyboards",
+      "brand": "Logitech",
+      "price": 99.0,
+      "originalPrice": 119.0,
+      "stock": 28,
+      "rating": 4.8,
+      "reviewCount": 1450,
+      "shortDescription": "Wireless keyboard with backlit keys, pairs with up to 3 devices.",
+      "description": "The MX Keys offers a quiet, well-spaced typing feel with backlit keys that adjust to ambient light, and can switch between three paired devices at the press of a button.",
+      "specs": {
+        "Connectivity": "Bluetooth / USB receiver",
+        "Backlight": "Yes",
+        "Battery life": "Up to 10 days (backlit)"
+      },
+      "tags": [
+        "keyboard",
+        "wireless",
+        "office",
+        "productivity"
+      ],
+      "variants": [],
+      "featured": true
+    },
+    {
+      "name": "ASUS ROG Strix Scope",
+      "top": "Electronics",
+      "category": "Keyboards",
+      "brand": "ASUS",
+      "price": 109.0,
+      "originalPrice": null,
+      "stock": 16,
+      "rating": 4.6,
+      "reviewCount": 380,
+      "shortDescription": "Mechanical gaming keyboard with red switches and per-key RGB.",
+      "description": "Linear red switches and per-key RGB lighting make the Strix Scope a responsive, customizable keyboard for competitive gaming.",
+      "specs": {
+        "Switch type": "Mechanical (red)",
+        "Backlight": "Per-key RGB",
+        "Connectivity": "Wired USB"
+      },
+      "tags": [
+        "keyboard",
+        "gaming",
+        "mechanical",
+        "rgb"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Logitech K380",
+      "top": "Electronics",
+      "category": "Keyboards",
+      "brand": "Logitech",
+      "price": 39.0,
+      "originalPrice": null,
+      "stock": 45,
+      "rating": 4.5,
+      "reviewCount": 2200,
+      "shortDescription": "Compact wireless keyboard that pairs with up to 3 devices.",
+      "description": "A compact, budget-friendly wireless keyboard that's easy to carry and switches between three paired devices, ideal for a simple multi-device desk setup.",
+      "specs": {
+        "Connectivity": "Bluetooth",
+        "Backlight": "No",
+        "Battery life": "Up to 2 years (AAA)"
+      },
+      "tags": [
+        "keyboard",
+        "wireless",
+        "budget",
+        "compact"
+      ],
+      "variants": [],
+      "featured": false
+    },
+    {
+      "name": "Classic Cotton T-Shirt",
+      "top": "Clothing",
+      "category": "T-Shirts",
+      "brand": "Uniqlo",
+      "price": 14.99,
+      "originalPrice": null,
+      "stock": 200,
+      "rating": 4.4,
+      "reviewCount": 900,
+      "shortDescription": "Soft, breathable cotton tee for everyday wear.",
+      "description": "A wardrobe staple: 100% cotton, pre-shrunk, and cut for a relaxed, everyday fit that layers well.",
+      "specs": {
+        "Material": "100% cotton",
+        "Fit": "Regular",
+        "Care": "Machine washable"
+      },
+      "tags": [
+        "t-shirt",
+        "casual",
+        "everyday",
+        "cotton"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "S",
+          "stock": 16
+        },
+        {
+          "color": "Black",
+          "size": "M",
+          "stock": 16
+        },
+        {
+          "color": "Black",
+          "size": "L",
+          "stock": 16
+        },
+        {
+          "color": "Black",
+          "size": "XL",
+          "stock": 16
+        },
+        {
+          "color": "White",
+          "size": "S",
+          "stock": 16
+        },
+        {
+          "color": "White",
+          "size": "M",
+          "stock": 16
+        },
+        {
+          "color": "White",
+          "size": "L",
+          "stock": 16
+        },
+        {
+          "color": "White",
+          "size": "XL",
+          "stock": 16
+        },
+        {
+          "color": "Navy",
+          "size": "S",
+          "stock": 16
+        },
+        {
+          "color": "Navy",
+          "size": "M",
+          "stock": 16
+        },
+        {
+          "color": "Navy",
+          "size": "L",
+          "stock": 16
+        },
+        {
+          "color": "Navy",
+          "size": "XL",
+          "stock": 16
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Black Formal Shirt",
+      "top": "Clothing",
+      "category": "Shirts",
+      "brand": "Zara",
+      "price": 19.99,
+      "originalPrice": 24.99,
+      "stock": 90,
+      "rating": 4.8,
+      "reviewCount": 410,
+      "shortDescription": "Slim-fit formal shirt, great for weddings and office wear.",
+      "description": "A crisp slim-fit shirt in easy-care cotton blend, tailored for a sharp look at weddings, interviews, or the office.",
+      "specs": {
+        "Material": "Cotton blend",
+        "Fit": "Slim",
+        "Occasion": "Formal"
+      },
+      "tags": [
+        "shirt",
+        "formal",
+        "wedding",
+        "office"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "S",
+          "stock": 7
+        },
+        {
+          "color": "Black",
+          "size": "M",
+          "stock": 7
+        },
+        {
+          "color": "Black",
+          "size": "L",
+          "stock": 7
+        },
+        {
+          "color": "Black",
+          "size": "XL",
+          "stock": 7
+        },
+        {
+          "color": "White",
+          "size": "S",
+          "stock": 7
+        },
+        {
+          "color": "White",
+          "size": "M",
+          "stock": 7
+        },
+        {
+          "color": "White",
+          "size": "L",
+          "stock": 7
+        },
+        {
+          "color": "White",
+          "size": "XL",
+          "stock": 7
+        },
+        {
+          "color": "Navy",
+          "size": "S",
+          "stock": 7
+        },
+        {
+          "color": "Navy",
+          "size": "M",
+          "stock": 7
+        },
+        {
+          "color": "Navy",
+          "size": "L",
+          "stock": 7
+        },
+        {
+          "color": "Navy",
+          "size": "XL",
+          "stock": 7
+        }
+      ],
+      "featured": true
+    },
+    {
+      "name": "Oxford Button-Down Shirt",
+      "top": "Clothing",
+      "category": "Shirts",
+      "brand": "H&M",
+      "price": 29.99,
+      "originalPrice": null,
+      "stock": 70,
+      "rating": 4.5,
+      "reviewCount": 260,
+      "shortDescription": "Classic oxford shirt that moves from desk to dinner.",
+      "description": "A versatile oxford-weave shirt with a classic collar, comfortable for both office days and casual weekends.",
+      "specs": {
+        "Material": "Cotton",
+        "Fit": "Regular",
+        "Occasion": "Smart casual"
+      },
+      "tags": [
+        "shirt",
+        "office",
+        "casual"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "color": "Black",
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "color": "Black",
+          "size": "L",
+          "stock": 5
+        },
+        {
+          "color": "Black",
+          "size": "XL",
+          "stock": 5
+        },
+        {
+          "color": "White",
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "color": "White",
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "color": "White",
+          "size": "L",
+          "stock": 5
+        },
+        {
+          "color": "White",
+          "size": "XL",
+          "stock": 5
+        },
+        {
+          "color": "Navy",
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "color": "Navy",
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "color": "Navy",
+          "size": "L",
+          "stock": 5
+        },
+        {
+          "color": "Navy",
+          "size": "XL",
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Slim Fit Jeans",
+      "top": "Clothing",
+      "category": "Jeans",
+      "brand": "Levi's",
+      "price": 59.99,
+      "originalPrice": 69.99,
+      "stock": 110,
+      "rating": 4.6,
+      "reviewCount": 1800,
+      "shortDescription": "511 slim-fit jeans in stretch denim for everyday comfort.",
+      "description": "Levi's 511 slim fit sits close through the seat and thigh with a straighter leg, made from a stretch denim blend that keeps its shape through the day.",
+      "specs": {
+        "Material": "Stretch denim",
+        "Fit": "Slim",
+        "Rise": "Mid"
+      },
+      "tags": [
+        "jeans",
+        "denim",
+        "casual",
+        "everyday"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color": "Black",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color": "Black",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color": "Black",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color": "White",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color": "White",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color": "White",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color": "White",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color": "Navy",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color": "Navy",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color": "Navy",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color": "Navy",
+          "size": "XL",
+          "stock": 9
+        }
+      ],
+      "featured": true
+    },
+    {
+      "name": "Relaxed Fit Jeans",
+      "top": "Clothing",
+      "category": "Jeans",
+      "brand": "Levi's",
+      "price": 64.99,
+      "originalPrice": null,
+      "stock": 65,
+      "rating": 4.5,
+      "reviewCount": 540,
+      "shortDescription": "551Z relaxed-fit jeans with room through the seat and thigh.",
+      "description": "A roomier cut through the seat and thigh for all-day comfort, in durable classic denim.",
+      "specs": {
+        "Material": "100% cotton denim",
+        "Fit": "Relaxed",
+        "Rise": "Mid"
+      },
+      "tags": [
+        "jeans",
+        "denim",
+        "casual"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "color": "Black",
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "color": "Black",
+          "size": "L",
+          "stock": 5
+        },
+        {
+          "color": "Black",
+          "size": "XL",
+          "stock": 5
+        },
+        {
+          "color": "White",
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "color": "White",
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "color": "White",
+          "size": "L",
+          "stock": 5
+        },
+        {
+          "color": "White",
+          "size": "XL",
+          "stock": 5
+        },
+        {
+          "color": "Navy",
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "color": "Navy",
+          "size": "M",
+          "stock": 5
+        },
+        {
+          "color": "Navy",
+          "size": "L",
+          "stock": 5
+        },
+        {
+          "color": "Navy",
+          "size": "XL",
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Lightweight Puffer Jacket",
+      "top": "Clothing",
+      "category": "Jackets",
+      "brand": "Zara",
+      "price": 49.99,
+      "originalPrice": 59.99,
+      "stock": 55,
+      "rating": 4.6,
+      "reviewCount": 320,
+      "shortDescription": "Packable puffer jacket for transitional weather.",
+      "description": "A lightweight, packable puffer that layers easily and folds into its own pocket, good for commutes and travel in cool weather.",
+      "specs": {
+        "Material": "Recycled polyester shell",
+        "Insulation": "Synthetic down",
+        "Water resistant": "Yes"
+      },
+      "tags": [
+        "jacket",
+        "outerwear",
+        "travel",
+        "lightweight"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "S",
+          "stock": 4
+        },
+        {
+          "color": "Black",
+          "size": "M",
+          "stock": 4
+        },
+        {
+          "color": "Black",
+          "size": "L",
+          "stock": 4
+        },
+        {
+          "color": "Black",
+          "size": "XL",
+          "stock": 4
+        },
+        {
+          "color": "White",
+          "size": "S",
+          "stock": 4
+        },
+        {
+          "color": "White",
+          "size": "M",
+          "stock": 4
+        },
+        {
+          "color": "White",
+          "size": "L",
+          "stock": 4
+        },
+        {
+          "color": "White",
+          "size": "XL",
+          "stock": 4
+        },
+        {
+          "color": "Navy",
+          "size": "S",
+          "stock": 4
+        },
+        {
+          "color": "Navy",
+          "size": "M",
+          "stock": 4
+        },
+        {
+          "color": "Navy",
+          "size": "L",
+          "stock": 4
+        },
+        {
+          "color": "Navy",
+          "size": "XL",
+          "stock": 4
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Denim Jacket",
+      "top": "Clothing",
+      "category": "Jackets",
+      "brand": "Levi's",
+      "price": 79.99,
+      "originalPrice": null,
+      "stock": 40,
+      "rating": 4.7,
+      "reviewCount": 610,
+      "shortDescription": "Classic trucker jacket in rigid denim.",
+      "description": "The Levi's Trucker Jacket is a timeless layering piece in sturdy denim that only gets better with wear.",
+      "specs": {
+        "Material": "100% cotton denim",
+        "Fit": "Regular"
+      },
+      "tags": [
+        "jacket",
+        "denim",
+        "casual",
+        "classic"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "S",
+          "stock": 3
+        },
+        {
+          "color": "Black",
+          "size": "M",
+          "stock": 3
+        },
+        {
+          "color": "Black",
+          "size": "L",
+          "stock": 3
+        },
+        {
+          "color": "Black",
+          "size": "XL",
+          "stock": 3
+        },
+        {
+          "color": "White",
+          "size": "S",
+          "stock": 3
+        },
+        {
+          "color": "White",
+          "size": "M",
+          "stock": 3
+        },
+        {
+          "color": "White",
+          "size": "L",
+          "stock": 3
+        },
+        {
+          "color": "White",
+          "size": "XL",
+          "stock": 3
+        },
+        {
+          "color": "Navy",
+          "size": "S",
+          "stock": 3
+        },
+        {
+          "color": "Navy",
+          "size": "M",
+          "stock": 3
+        },
+        {
+          "color": "Navy",
+          "size": "L",
+          "stock": 3
+        },
+        {
+          "color": "Navy",
+          "size": "XL",
+          "stock": 3
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Wrap Midi Dress",
+      "top": "Clothing",
+      "category": "Dresses",
+      "brand": "Zara",
+      "price": 45.99,
+      "originalPrice": null,
+      "stock": 38,
+      "rating": 4.5,
+      "reviewCount": 190,
+      "shortDescription": "Flowy wrap dress suitable for both work and evenings out.",
+      "description": "A flattering wrap silhouette in a flowing fabric that transitions easily from the office to dinner plans.",
+      "specs": {
+        "Material": "Viscose blend",
+        "Fit": "Wrap",
+        "Occasion": "Smart casual"
+      },
+      "tags": [
+        "dress",
+        "occasion",
+        "smart casual"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "S",
+          "stock": 3
+        },
+        {
+          "color": "Black",
+          "size": "M",
+          "stock": 3
+        },
+        {
+          "color": "Black",
+          "size": "L",
+          "stock": 3
+        },
+        {
+          "color": "Black",
+          "size": "XL",
+          "stock": 3
+        },
+        {
+          "color": "White",
+          "size": "S",
+          "stock": 3
+        },
+        {
+          "color": "White",
+          "size": "M",
+          "stock": 3
+        },
+        {
+          "color": "White",
+          "size": "L",
+          "stock": 3
+        },
+        {
+          "color": "White",
+          "size": "XL",
+          "stock": 3
+        },
+        {
+          "color": "Navy",
+          "size": "S",
+          "stock": 3
+        },
+        {
+          "color": "Navy",
+          "size": "M",
+          "stock": 3
+        },
+        {
+          "color": "Navy",
+          "size": "L",
+          "stock": 3
+        },
+        {
+          "color": "Navy",
+          "size": "XL",
+          "stock": 3
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Floral Summer Dress",
+      "top": "Clothing",
+      "category": "Dresses",
+      "brand": "H&M",
+      "price": 34.99,
+      "originalPrice": 39.99,
+      "stock": 48,
+      "rating": 4.4,
+      "reviewCount": 260,
+      "shortDescription": "Lightweight floral dress for warm-weather occasions.",
+      "description": "A breathable, lightweight dress with a floral print, comfortable for warm days and casual summer events.",
+      "specs": {
+        "Material": "100% viscose",
+        "Fit": "Regular",
+        "Occasion": "Casual"
+      },
+      "tags": [
+        "dress",
+        "summer",
+        "casual",
+        "floral"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "S",
+          "stock": 4
+        },
+        {
+          "color": "Black",
+          "size": "M",
+          "stock": 4
+        },
+        {
+          "color": "Black",
+          "size": "L",
+          "stock": 4
+        },
+        {
+          "color": "Black",
+          "size": "XL",
+          "stock": 4
+        },
+        {
+          "color": "White",
+          "size": "S",
+          "stock": 4
+        },
+        {
+          "color": "White",
+          "size": "M",
+          "stock": 4
+        },
+        {
+          "color": "White",
+          "size": "L",
+          "stock": 4
+        },
+        {
+          "color": "White",
+          "size": "XL",
+          "stock": 4
+        },
+        {
+          "color": "Navy",
+          "size": "S",
+          "stock": 4
+        },
+        {
+          "color": "Navy",
+          "size": "M",
+          "stock": 4
+        },
+        {
+          "color": "Navy",
+          "size": "L",
+          "stock": 4
+        },
+        {
+          "color": "Navy",
+          "size": "XL",
+          "stock": 4
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Nike Air Zoom Pegasus 40",
+      "top": "Shoes",
+      "category": "Running Shoes",
+      "brand": "Nike",
+      "price": 89.99,
+      "originalPrice": 109.99,
+      "stock": 70,
+      "rating": 4.7,
+      "reviewCount": 1650,
+      "shortDescription": "Responsive cushioning for daily training runs.",
+      "description": "The Pegasus 40 is a dependable daily trainer with responsive foam cushioning, suited to easy runs and tempo work alike.",
+      "specs": {
+        "Material": "Engineered mesh",
+        "Cushioning": "React foam",
+        "Use": "Road running"
+      },
+      "tags": [
+        "running shoes",
+        "sneakers",
+        "sport",
+        "cushioned"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "40",
+          "stock": 7
+        },
+        {
+          "color": "Black",
+          "size": "41",
+          "stock": 7
+        },
+        {
+          "color": "Black",
+          "size": "42",
+          "stock": 7
+        },
+        {
+          "color": "Black",
+          "size": "43",
+          "stock": 7
+        },
+        {
+          "color": "Black",
+          "size": "44",
+          "stock": 7
+        },
+        {
+          "color": "White",
+          "size": "40",
+          "stock": 7
+        },
+        {
+          "color": "White",
+          "size": "41",
+          "stock": 7
+        },
+        {
+          "color": "White",
+          "size": "42",
+          "stock": 7
+        },
+        {
+          "color": "White",
+          "size": "43",
+          "stock": 7
+        },
+        {
+          "color": "White",
+          "size": "44",
+          "stock": 7
+        }
+      ],
+      "featured": true
+    },
+    {
+      "name": "Adidas Ultraboost Light",
+      "top": "Shoes",
+      "category": "Running Shoes",
+      "brand": "Adidas",
+      "price": 129.99,
+      "originalPrice": 189.99,
+      "stock": 42,
+      "rating": 4.8,
+      "reviewCount": 980,
+      "shortDescription": "Lightweight Boost midsole for energy return on long runs.",
+      "description": "A lighter version of the classic Ultraboost, with a responsive Boost midsole that returns energy on longer runs while staying comfortable for all-day wear.",
+      "specs": {
+        "Material": "Primeknit upper",
+        "Cushioning": "Boost Light",
+        "Use": "Road running"
+      },
+      "tags": [
+        "running shoes",
+        "sport",
+        "cushioned"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "40",
+          "stock": 4
+        },
+        {
+          "color": "Black",
+          "size": "41",
+          "stock": 4
+        },
+        {
+          "color": "Black",
+          "size": "42",
+          "stock": 4
+        },
+        {
+          "color": "Black",
+          "size": "43",
+          "stock": 4
+        },
+        {
+          "color": "Black",
+          "size": "44",
+          "stock": 4
+        },
+        {
+          "color": "White",
+          "size": "40",
+          "stock": 4
+        },
+        {
+          "color": "White",
+          "size": "41",
+          "stock": 4
+        },
+        {
+          "color": "White",
+          "size": "42",
+          "stock": 4
+        },
+        {
+          "color": "White",
+          "size": "43",
+          "stock": 4
+        },
+        {
+          "color": "White",
+          "size": "44",
+          "stock": 4
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "New Balance Fresh Foam 1080",
+      "top": "Shoes",
+      "category": "Running Shoes",
+      "brand": "New Balance",
+      "price": 149.99,
+      "originalPrice": null,
+      "stock": 30,
+      "rating": 4.7,
+      "reviewCount": 520,
+      "shortDescription": "Plush cushioning designed for long-distance comfort.",
+      "description": "The 1080 offers plush, protective cushioning that makes it a favorite for longer distances and recovery runs.",
+      "specs": {
+        "Material": "Engineered knit",
+        "Cushioning": "Fresh Foam X",
+        "Use": "Road running"
+      },
+      "tags": [
+        "running shoes",
+        "sport",
+        "cushioned",
+        "long distance"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "40",
+          "stock": 3
+        },
+        {
+          "color": "Black",
+          "size": "41",
+          "stock": 3
+        },
+        {
+          "color": "Black",
+          "size": "42",
+          "stock": 3
+        },
+        {
+          "color": "Black",
+          "size": "43",
+          "stock": 3
+        },
+        {
+          "color": "Black",
+          "size": "44",
+          "stock": 3
+        },
+        {
+          "color": "White",
+          "size": "40",
+          "stock": 3
+        },
+        {
+          "color": "White",
+          "size": "41",
+          "stock": 3
+        },
+        {
+          "color": "White",
+          "size": "42",
+          "stock": 3
+        },
+        {
+          "color": "White",
+          "size": "43",
+          "stock": 3
+        },
+        {
+          "color": "White",
+          "size": "44",
+          "stock": 3
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Nike Air Force 1",
+      "top": "Shoes",
+      "category": "Sneakers",
+      "brand": "Nike",
+      "price": 99.99,
+      "originalPrice": null,
+      "stock": 85,
+      "rating": 4.9,
+      "reviewCount": 3400,
+      "shortDescription": "Iconic leather sneaker for everyday, casual wear.",
+      "description": "The Air Force 1's leather upper and classic silhouette make it an everyday sneaker that pairs with almost anything.",
+      "specs": {
+        "Material": "Leather",
+        "Sole": "Rubber",
+        "Use": "Casual"
+      },
+      "tags": [
+        "sneakers",
+        "casual",
+        "streetwear",
+        "classic"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "40",
+          "stock": 8
+        },
+        {
+          "color": "Black",
+          "size": "41",
+          "stock": 8
+        },
+        {
+          "color": "Black",
+          "size": "42",
+          "stock": 8
+        },
+        {
+          "color": "Black",
+          "size": "43",
+          "stock": 8
+        },
+        {
+          "color": "Black",
+          "size": "44",
+          "stock": 8
+        },
+        {
+          "color": "White",
+          "size": "40",
+          "stock": 8
+        },
+        {
+          "color": "White",
+          "size": "41",
+          "stock": 8
+        },
+        {
+          "color": "White",
+          "size": "42",
+          "stock": 8
+        },
+        {
+          "color": "White",
+          "size": "43",
+          "stock": 8
+        },
+        {
+          "color": "White",
+          "size": "44",
+          "stock": 8
+        }
+      ],
+      "featured": true
+    },
+    {
+      "name": "Adidas Samba OG",
+      "top": "Shoes",
+      "category": "Sneakers",
+      "brand": "Adidas",
+      "price": 109.99,
+      "originalPrice": null,
+      "stock": 60,
+      "rating": 4.8,
+      "reviewCount": 1250,
+      "shortDescription": "Retro-styled leather sneaker with suede overlays.",
+      "description": "A retro-inspired low-top with a leather upper and suede overlays, popular as an everyday casual sneaker.",
+      "specs": {
+        "Material": "Leather with suede overlays",
+        "Sole": "Gum rubber",
+        "Use": "Casual"
+      },
+      "tags": [
+        "sneakers",
+        "casual",
+        "streetwear"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "40",
+          "stock": 6
+        },
+        {
+          "color": "Black",
+          "size": "41",
+          "stock": 6
+        },
+        {
+          "color": "Black",
+          "size": "42",
+          "stock": 6
+        },
+        {
+          "color": "Black",
+          "size": "43",
+          "stock": 6
+        },
+        {
+          "color": "Black",
+          "size": "44",
+          "stock": 6
+        },
+        {
+          "color": "White",
+          "size": "40",
+          "stock": 6
+        },
+        {
+          "color": "White",
+          "size": "41",
+          "stock": 6
+        },
+        {
+          "color": "White",
+          "size": "42",
+          "stock": 6
+        },
+        {
+          "color": "White",
+          "size": "43",
+          "stock": 6
+        },
+        {
+          "color": "White",
+          "size": "44",
+          "stock": 6
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Puma Suede Classic",
+      "top": "Shoes",
+      "category": "Sneakers",
+      "brand": "Puma",
+      "price": 74.99,
+      "originalPrice": 84.99,
+      "stock": 50,
+      "rating": 4.5,
+      "reviewCount": 640,
+      "shortDescription": "Classic suede sneaker with a low-profile silhouette.",
+      "description": "A long-running classic: soft suede upper, low-profile silhouette, and a comfortable everyday fit.",
+      "specs": {
+        "Material": "Suede",
+        "Sole": "Rubber",
+        "Use": "Casual"
+      },
+      "tags": [
+        "sneakers",
+        "casual",
+        "classic"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "40",
+          "stock": 5
+        },
+        {
+          "color": "Black",
+          "size": "41",
+          "stock": 5
+        },
+        {
+          "color": "Black",
+          "size": "42",
+          "stock": 5
+        },
+        {
+          "color": "Black",
+          "size": "43",
+          "stock": 5
+        },
+        {
+          "color": "Black",
+          "size": "44",
+          "stock": 5
+        },
+        {
+          "color": "White",
+          "size": "40",
+          "stock": 5
+        },
+        {
+          "color": "White",
+          "size": "41",
+          "stock": 5
+        },
+        {
+          "color": "White",
+          "size": "42",
+          "stock": 5
+        },
+        {
+          "color": "White",
+          "size": "43",
+          "stock": 5
+        },
+        {
+          "color": "White",
+          "size": "44",
+          "stock": 5
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Clarks Desert Boot",
+      "top": "Shoes",
+      "category": "Formal Shoes",
+      "brand": "Clarks",
+      "price": 129.99,
+      "originalPrice": null,
+      "stock": 25,
+      "rating": 4.6,
+      "reviewCount": 410,
+      "shortDescription": "Classic suede desert boot, smart-casual all year round.",
+      "description": "The original Desert Boot pairs soft suede with a crepe sole, sitting comfortably between casual and smart-casual wear.",
+      "specs": {
+        "Material": "Suede",
+        "Sole": "Crepe",
+        "Use": "Smart casual"
+      },
+      "tags": [
+        "boots",
+        "smart casual",
+        "classic"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "40",
+          "stock": 2
+        },
+        {
+          "color": "Black",
+          "size": "41",
+          "stock": 2
+        },
+        {
+          "color": "Black",
+          "size": "42",
+          "stock": 2
+        },
+        {
+          "color": "Black",
+          "size": "43",
+          "stock": 2
+        },
+        {
+          "color": "Black",
+          "size": "44",
+          "stock": 2
+        },
+        {
+          "color": "White",
+          "size": "40",
+          "stock": 2
+        },
+        {
+          "color": "White",
+          "size": "41",
+          "stock": 2
+        },
+        {
+          "color": "White",
+          "size": "42",
+          "stock": 2
+        },
+        {
+          "color": "White",
+          "size": "43",
+          "stock": 2
+        },
+        {
+          "color": "White",
+          "size": "44",
+          "stock": 2
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Clarks Tilden Cap Oxford",
+      "top": "Shoes",
+      "category": "Formal Shoes",
+      "brand": "Clarks",
+      "price": 139.99,
+      "originalPrice": 159.99,
+      "stock": 20,
+      "rating": 4.5,
+      "reviewCount": 210,
+      "shortDescription": "Leather oxford shoe suited for weddings and the office.",
+      "description": "A polished leather oxford with a cap toe, well suited to weddings, interviews, or everyday office wear.",
+      "specs": {
+        "Material": "Leather",
+        "Sole": "Leather with rubber pad",
+        "Use": "Formal"
+      },
+      "tags": [
+        "formal shoes",
+        "leather",
+        "wedding",
+        "office"
+      ],
+      "variants": [
+        {
+          "color": "Black",
+          "size": "40",
+          "stock": 2
+        },
+        {
+          "color": "Black",
+          "size": "41",
+          "stock": 2
+        },
+        {
+          "color": "Black",
+          "size": "42",
+          "stock": 2
+        },
+        {
+          "color": "Black",
+          "size": "43",
+          "stock": 2
+        },
+        {
+          "color": "Black",
+          "size": "44",
+          "stock": 2
+        },
+        {
+          "color": "White",
+          "size": "40",
+          "stock": 2
+        },
+        {
+          "color": "White",
+          "size": "41",
+          "stock": 2
+        },
+        {
+          "color": "White",
+          "size": "42",
+          "stock": 2
+        },
+        {
+          "color": "White",
+          "size": "43",
+          "stock": 2
+        },
+        {
+          "color": "White",
+          "size": "44",
+          "stock": 2
+        }
+      ],
+      "featured": false
+    }
+  ]
+}
